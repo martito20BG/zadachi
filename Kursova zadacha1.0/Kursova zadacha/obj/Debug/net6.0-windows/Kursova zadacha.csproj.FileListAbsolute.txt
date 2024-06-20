@@ -1,0 +1,204 @@
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.exe
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.deps.json
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.runtimeconfig.json
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.pdb
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.AssemblyReference.cache
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova_zadacha.Form1.resources
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.GenerateResource.cache
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.AssemblyInfoInputs.cache
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.AssemblyInfo.cs
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.CoreCompileInputs.cache
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.CopyComplete
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\refint\Kursova zadacha.dll
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.pdb
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.genruntimeconfig.cache
+C:\Users\mchen\Desktop\visual studio projects\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\ref\Kursova zadacha.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.exe
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.deps.json
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.runtimeconfig.json
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.pdb
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova_zadacha.Form1.resources
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.AssemblyInfo.cs
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova .F4347AC9.Up2Date
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\refint\Kursova zadacha.dll
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.pdb
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.genruntimeconfig.cache
+C:\Users\Student\Desktop\Kursova zadacha\Kursova zadacha\obj\Debug\net6.0-windows\ref\Kursova zadacha.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.AssemblyReference.cache
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova_zadacha.Form1.resources
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova_zadacha.Form2.resources
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova_zadacha.Properties.Resources.resources
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.GenerateResource.cache
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.AssemblyInfoInputs.cache
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.AssemblyInfo.cs
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.CoreCompileInputs.cache
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\refint\Kursova zadacha.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.pdb
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.exe
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.deps.json
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.runtimeconfig.json
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.dll
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.pdb
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.CopyComplete
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.genruntimeconfig.cache
+C:\Users\mchen\Desktop\Kursova zadacha1\Kursova zadacha\obj\Debug\net6.0-windows\ref\Kursova zadacha.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.exe
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.deps.json
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.runtimeconfig.json
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Kursova zadacha.pdb
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Humanizer.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kursova zadacha1.0\Kursova zadacha\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.AssemblyReference.cache
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova_zadacha.Form1.resources
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova_zadacha.Form2.resources
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova_zadacha.Properties.Resources.resources
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.GenerateResource.cache
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.AssemblyInfoInputs.cache
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.AssemblyInfo.cs
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.csproj.CoreCompileInputs.cache
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova .F4347AC9.Up2Date
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.dll
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\refint\Kursova zadacha.dll
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.pdb
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\Kursova zadacha.genruntimeconfig.cache
+E:\Kursova zadacha1.0\Kursova zadacha\obj\Debug\net6.0-windows\ref\Kursova zadacha.dll
